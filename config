@@ -1,4 +1,4 @@
 config-file = ../tokyonight-theme/extras/ghostty/tokyonight_night
-custom-shader = ./shader.glsl
 window-height = 9999
 window-width = 9999
+macos-option-as-alt = left

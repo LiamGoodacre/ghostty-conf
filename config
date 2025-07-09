@@ -2,3 +2,4 @@ config-file = ../tokyonight-theme/extras/ghostty/tokyonight_night
 window-height = 9999
 window-width = 9999
 macos-option-as-alt = left
+font-size = 10
